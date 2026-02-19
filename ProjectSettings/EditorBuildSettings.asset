@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyNewScene.unity
     guid: 8dc83591d1dd10243a2e021d1bb4e143
+  - enabled: 1
+    path: Assets/MyNewScene.unity
+    guid: 24d7a48b5e0cd8340a3b42b167347d42
   m_configObjects: {}
