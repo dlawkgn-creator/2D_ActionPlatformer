@@ -11,7 +11,7 @@ namespace Gamekit2D
         public float fuse = 0.01f;
         public GameObject explosion;
         public float explosionTimer = 3;
-        new Rigidbody2D rigidbody;
+        private Rigidbody2D rigidbody;
 
         protected GameObject m_HitEffect;
 
